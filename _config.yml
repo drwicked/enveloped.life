@@ -1,7 +1,7 @@
 # Site Settings
 title: Enveloped.life
 description: Cards! Stickers!
-url: http://enveloped.life
+url:
 
 # Jekyll Configuration
 encoding: UTF-8
